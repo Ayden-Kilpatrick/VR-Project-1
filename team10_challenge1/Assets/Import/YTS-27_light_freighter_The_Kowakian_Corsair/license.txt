@@ -1,0 +1,11 @@
+Model Information:
+* title:	YTS-27 light freighter "The Kowakian Corsair"
+* source:	https://sketchfab.com/3d-models/yts-27-light-freighter-the-kowakian-corsair-3e187fed67034c488a0a9e41eae36628
+* author:	JP_2793 (https://sketchfab.com/JP_2793)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "YTS-27 light freighter "The Kowakian Corsair"" (https://sketchfab.com/3d-models/yts-27-light-freighter-the-kowakian-corsair-3e187fed67034c488a0a9e41eae36628) by JP_2793 (https://sketchfab.com/JP_2793) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
